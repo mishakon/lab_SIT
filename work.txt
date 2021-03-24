@@ -1,0 +1,6 @@
+создаем проект на основе django
+django-admin startproject / name /
+
+создаем главное приложение
+python manage.py startapp / name / и добавляем его в settings.py
+
